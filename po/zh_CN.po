@@ -51,15 +51,15 @@ msgstr "自动"
 
 #: Resource_Monitor@Ory0n/prefs.js:383
 msgid "kHz"
-msgstr "kHz"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:384
 msgid "MHz"
-msgstr "MHz"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:385
 msgid "GHz"
-msgstr "GHz"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:391
 msgid "Numeric"
@@ -67,27 +67,27 @@ msgstr "数值"
 
 #: Resource_Monitor@Ory0n/prefs.js:399 Resource_Monitor@Ory0n/prefs.js:3146
 msgid "Kilo"
-msgstr "千"
+msgstr "千级（K）"
 
 #: Resource_Monitor@Ory0n/prefs.js:400 Resource_Monitor@Ory0n/prefs.js:3147
 msgid "Mega"
-msgstr "兆"
+msgstr "兆级（M）"
 
 #: Resource_Monitor@Ory0n/prefs.js:401 Resource_Monitor@Ory0n/prefs.js:3148
 msgid "Giga"
-msgstr "吉"
+msgstr "吉级（G）"
 
 #: Resource_Monitor@Ory0n/prefs.js:402 Resource_Monitor@Ory0n/prefs.js:3149
 msgid "Tera"
-msgstr "太"
+msgstr "太级（T）"
 
 #: Resource_Monitor@Ory0n/prefs.js:408 Resource_Monitor@Ory0n/prefs.js:546
 msgid "SI (1000)"
-msgstr "SI (1000)"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:409 Resource_Monitor@Ory0n/prefs.js:546
 msgid "IEC (1024)"
-msgstr "IEC (1024)"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:415
 msgid "Precise"
@@ -159,11 +159,11 @@ msgstr "可用空间"
 
 #: Resource_Monitor@Ory0n/prefs.js:481
 msgid "B/s"
-msgstr "B/s"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:482
 msgid "b/s"
-msgstr "b/s"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:550
 #, javascript-format
@@ -184,15 +184,15 @@ msgstr "否"
 
 #: Resource_Monitor@Ory0n/prefs.js:873 Resource_Monitor@Ory0n/prefs.js:897
 msgid "AMD (sysfs)"
-msgstr "AMD (sysfs)"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:877 Resource_Monitor@Ory0n/prefs.js:900
 msgid "Intel (sysfs)"
-msgstr "Intel (sysfs)"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:880 Resource_Monitor@Ory0n/prefs.js:894
 msgid "NVIDIA (nvidia-smi)"
-msgstr "NVIDIA (nvidia-smi)"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:904
 msgid "None"
@@ -256,7 +256,7 @@ msgstr "展开以管理此指标的阈值和颜色。"
 
 #: Resource_Monitor@Ory0n/prefs.js:1126 Resource_Monitor@Ory0n/prefs.js:1293
 msgid "CPU"
-msgstr "CPU"
+msgstr "处理器"
 
 #: Resource_Monitor@Ory0n/prefs.js:1127 Resource_Monitor@Ory0n/prefs.js:1465
 msgid "RAM"
@@ -281,11 +281,11 @@ msgstr "以太网"
 
 #: Resource_Monitor@Ory0n/prefs.js:1132
 msgid "Wi-Fi"
-msgstr "Wi-Fi"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:1133 Resource_Monitor@Ory0n/prefs.js:2159
 msgid "GPU"
-msgstr "GPU"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:1173
 msgid "Global"
@@ -1254,11 +1254,11 @@ msgstr "统计"
 
 #: Resource_Monitor@Ory0n/prefs.js:3239
 msgid "°C"
-msgstr "°C"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:3240
 msgid "°F"
-msgstr "°F"
+msgstr ""
 
 #: Resource_Monitor@Ory0n/prefs.js:3532
 #: Resource_Monitor@Ory0n/prefs/helpers.js:254
